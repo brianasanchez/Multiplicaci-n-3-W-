@@ -18,7 +18,7 @@ print(f'Multiplicacion de {a} de {b} y de {c} es {mul(a, b, c)}') # se hace la p
 print(" ") # print imprime un espacio
 
 
-![image](https://github.com/user-attachments/assets/aaa41d7f-e5df-47c0-9353-fbfc8e43d945)
+0![image](https://github.com/user-attachments/assets/883be3ca-ba44-459f-b162-8a16fe04aa8e)
 
-![image](https://github.com/user-attachments/assets/5645346e-c79c-400b-aac5-76ec63d7a587)
+![image](https://github.com/user-attachments/assets/066c1fc5-c84a-44ce-a702-8279093e16b6)
 
